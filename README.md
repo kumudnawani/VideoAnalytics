@@ -2,7 +2,7 @@
 
 Read the notes given in the .ipynb file. Apart from that, the final export of the video gave an error. The workaround for this is to manually download from the concerned file where the code has the out.mp4 video (The object detection and segmentation video from your algorithm) saved in your directory.
 
-# Things to follow from now as we work on this project:
+# Things to follow from now on as we work on this project:
 
 * Always add notes on what is the next intention as you code. So that the reader gets an idea on what the programmer intends to do next. And always add comments to each line of code even if you feel it is unnecessary to do so. 
 
